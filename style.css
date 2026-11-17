@@ -1,0 +1,91 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+}
+nav{
+    display: flex;
+    color: aliceblue;
+    padding-left: 55px;
+    padding-right: 55px;
+    justify-content: space-between;
+}
+.second-text-div{
+    display: flex;
+    gap: 50px;
+}
+.section1-div{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: aliceblue;
+    padding-top: 60px;
+    
+}
+.first-section{
+    background-color: black;
+}
+.text-section{
+    padding-top: 10%;
+}
+.img-section1 img{
+    height: 75%;
+}
+.cover-div{
+    display: flex;
+    justify-content: center;
+    gap: 105px;
+    padding: 60px;
+    background-color: white;
+}
+.images img{
+    height: 300px;
+}
+.text-inspiration{
+    background-color: aliceblue;
+}
+.cover-section3{
+    font-size: large;
+    font-family: cursive;
+    padding-top: 120px;
+    padding-left: 480px;
+    padding-bottom: 120px;
+}
+.side-text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30%;
+}
+.footer{
+    background-color: white;
+    height: 200px;
+}
+.footer-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 110px;
+    background-color: rgba(45, 113, 215, 0.52);
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    padding: 40px;
+}
+.btn-hero{
+    margin-top: 20px;
+    background-color: rgba(0, 145, 255, 0.611);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
+.btn-footer{
+    background-color: rgba(0, 145, 255, 0.611);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    margin-left: 150px;
+}
